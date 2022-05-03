@@ -1,0 +1,14 @@
+.git
+.vscode
+__pycache__
+
+*.ipynb
+
+/postprocess_all_products
+/raw/
+/ml_algorithms/catboost_info/
+/postprocess_all_products/
+/clustering/labeled_cluster_data.csv
+/clustering/clustering.png
+/results/
+/feature_engineering/features_to_merge.csv
