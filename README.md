@@ -1,4 +1,4 @@
-# Smartshopping project repository for the IEEE Access paper.
+# Smartshopping project repository for our PLOS One paper.
 
 ###Important note : make sure to download the data.zip file available through this link :  
 https://drive.google.com/file/d/1q-LkWMx5ar-OGlPPLFwSDi-IbLe7ZaIo/view?usp=sharing
